@@ -16,7 +16,7 @@ with open('./dataset.json') as json_file:
     for topic in data:
         md.write(f"#### {topic}\r\n")
         for entry in data[topic]:
-            md.write(f"* [{entry['label']}]({entry['url']}) - \n")
+            md.write(f"* [{entry['label']}]({entry['url']}) - {entry['title']}\n")
         md.write("\n")
 
     md.close()

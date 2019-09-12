@@ -111,8 +111,8 @@
 * [Kenney](http://kenney.nl/assets) - 
 * [Reiner`s Tilesets](http://www.reinerstilesets.de/) - 
 * [OpenGameArt](http://opengameart.org/) - 
-* [Mobile Game Graphics](https://mobilegamegraphics.com/?affiliates=33) - 
-* [SpriteLib](http://www.widgetworx.com/spritelib) - 
+* [Mobile Game Graphics](https://mobilegamegraphics.com/?affiliates=33) - Game assets store providing game assets, sprites, backgrounds, pixel art, game characters and game resources. Free game assets, free sprites, free pixel art.
+* [SpriteLib](http://www.widgetworx.com/spritelib) - SpriteLib is a collection of static and animated graphic objects (also commonly known as sprites).
 * [GameDev Market](https://www.gamedevmarket.net/) - 
 * [Dev Assets](http://devassets.com/) - 
 * [Lost Garden](http://www.lostgarden.com/search/label/free%20game%20graphics) - 
@@ -126,24 +126,24 @@
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui) - 
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - 
 * [Games-Icons Set](http://game-icons.net/) - 
-* [Sketchfab](https://sketchfab.com/) - 
+* [Sketchfab](https://sketchfab.com/) - With a community of over one million creators, we are the world’s largest platform to publish, share, and discover 3D content on web, mobile, AR, and VR.
 * [Unity Asset Store](https://www.assetstore.unity3d.com/en) - 
 * [Daily WF](https://gumroad.com/l/getwfc) - 
 * [PNG Trees](http://pngimg.com/img/nature/tree) - 
 * [Top game assets](https://itch.io/game-assets) - 
 * [Matriax Free Assets](https://kronbits.itch.io/matriax-free-assets) - 
-* [Renderosity](https://www.renderosity.com/mod/bcs/?TopID=554689) - 
+* [Renderosity](https://www.renderosity.com/mod/bcs/?TopID=554689) - Renderosity - 3D Models for game developers
 * [Craftpix](https://craftpix.net/) - 
-* [Epic art & assets collection by Estúdio Vaca Roxa](https://bakudas.itch.io/epic-art-assets-collection) - 
+* [Epic art & assets collection by Estúdio Vaca Roxa](https://bakudas.itch.io/epic-art-assets-collection) - Free Vector Assets for Personal and Commercial Use
 * [Generic Platformer Pack by Estúdio Vaca Roxa](https://bakudas.itch.io/generic-platformer-pack) - 
-* [Quaternius lowpoly assets](http://quaternius.com/assets.html) - 
-* [Pixelgameart.org](http://pixelgameart.org/) - 
-* [FREE Keyboard and controllers prompts pack](https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack) - 
-* [ProductionCrate](https://www.productioncrate.com/) - 
+* [Quaternius lowpoly assets](http://quaternius.com/assets.html) - Free lowpoly assets
+* [Pixelgameart.org](http://pixelgameart.org/) - Sharing Pixel Art for your GameDev
+* [FREE Keyboard and controllers prompts pack](https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack) - Hey there awesome people on OpenGameArt (this is my first post). I got to the point where I have to add controller prompts in the menu of my game, so I thought.. instead of making just the 2/3 buttons I need... why not make Over 500? &nbsp; And so I did…
+* [ProductionCrate](https://www.productioncrate.com/) - Original Production Elements, VFX, Original Music &amp; More.
 
 #### Famous Game Sources
-* [id Software](https://github.com/id-Software) - 
-* [DOOM](https://github.com/id-Software/DOOM) - 
+* [id Software](https://github.com/id-Software) - GitHub is where people build software. More than 12 million people use GitHub to discover, fork, and contribute to over 31 million projects.
+* [DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 * [Duke Nukem 3D](https://3drealms.com/) - 
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - 
 * [Sim City](https://github.com/simhacker/micropolis) - 
@@ -158,25 +158,25 @@
 * [AutoTileGen](http://autotilegen.com/) - 
 * [OGMO EDITOR](http://www.ogmoeditor.com/) - 
 * [Tile Studio](http://tilestudio.sourceforge.net/) - 
-* [Crocotile 3D](http://www.crocotile3d.com/) - 
+* [Crocotile 3D](http://www.crocotile3d.com/) - Create 3d maps and models with 2d tilesets
 * [CastleDB](http://castledb.org/) - 
 * [Tilemap Tool](https://assets.idevgames.co.uk/product/tilemap-tool/) - 
 
 #### 2D Normal Mapping
 * [Sprite DLight](http://2dee-art.blogspot.com/p/sprite-dlight.html) - 
-* [Sprite Lamp](http://www.snakehillgames.com/spritelamp/) - 
-* [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator) - 
-* [BriteSprite](https://www.assetstore.unity3d.com/en/#!/content/13823) - 
-* [Laigter by azagaya](https://azagaya.itch.io/laigter) - 
+* [Sprite Lamp](http://www.snakehillgames.com/spritelamp/) - Sprite Lamp | Snake Hill Games
+* [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator) - SpriteIlluminator: Generate normal maps for your 2d game and web projects.
+* [BriteSprite](https://www.assetstore.unity3d.com/en/#!/content/13823) - Asset Store
+* [Laigter by azagaya](https://azagaya.itch.io/laigter) - Simple normal map generator for 2D sprites!
 
 #### Vector Editors
 * [Inkscape](http://inkscape.org/en) - 
 * [Vectr](http://vectr.com/) - 
-* [Affinity Designer](https://affinity.serif.com/de/) - 
+* [Affinity Designer](https://affinity.serif.com/de/) - Vector based Graphic tool
 * [Sketch](http://www.sketchapp.com/) - 
 * [Figma](http://figma.com/) - 
 * [Gravit Designer](https://designer.io/) - 
-* [Adobe Illustrator CC](http://www.adobe.com/de/products/illustrator.html) - 
+* [Adobe Illustrator CC](http://www.adobe.com/de/products/illustrator.html) - Professional vector editing application
 * [Lunacy, Sketch for Windows](https://icons8.com/lunacy) - 
 
 #### Pixel Editors
@@ -204,7 +204,7 @@
 * [Bryce 7](http://www.daz3d.com/bryce-7-pro) - 
 * [WorldCreator](http://www.bitethebytes.net/bitethebytes/) - 
 * [Gaia](https://www.assetstore.unity3d.com/en/#!/content/42618) - 
-* [Large 3D Terrain Generator (L3DT)](http://www.bundysoft.com/L3DT/) - 
+* [Large 3D Terrain Generator (L3DT)](http://www.bundysoft.com/L3DT/) - Easy, free, customizable, large 3d terrains that can easily be exported to different formats.
 * [MapMagic World Generator](https://assetstore.unity.com/packages/tools/terrain/mapmagic-world-generator-56762) - 
 * [Gaea- Quadspinner](https://quadspinner.com/gaea/) - 
 
@@ -216,20 +216,20 @@
 #### Projection Texturing
 * [Pixexix](http://pixexix.sophiehoulden.com/) - 
 * [Substance Painter](http://www.allegorithmic.com/products/substance-painter) - 
-* [Mari 3D](https://www.thefoundry.co.uk/products/mari/) - 
+* [Mari 3D](https://www.thefoundry.co.uk/products/mari/) - The Foundry’s cutting-edge 3D paint tool, MARI gives you a fluid &amp; flexible way to paint directly onto 3D models.
 * [Sculptris](http://pixologic.com/sculptris) - 
-* [Autodesk Mudbox](https://www.autodesk.com/products/mudbox/overview) - 
-* [3DCoat](https://3dcoat.com/home/) - 
+* [Autodesk Mudbox](https://www.autodesk.com/products/mudbox/overview) - Autodesk Mudbox digital sculpting and texture painting software provides 3D artists with an intuitive toolset for creating and modifying 3D geometry and textures.
+* [3DCoat](https://3dcoat.com/home/) - 3D-Coat is the one application that has all the tools you need to take your 3D idea from a block of digital clay all the way to a production ready, fully textured organic or hard surface model.
 
 #### 3D Search Engine
 * [Poly](https://poly.google.com/) - 
 * [Yobi3D](http://www.yobi3d.com/) - 
 * [TurboSquid](http://www.turbosquid.com/index.cfm) - 
 * [Blender Swap!](http://www.blendswap.com/) - 
-* [Humster3d](http://humster3d.com/) - 
-* [TF3DM](http://tf3dm.com/) - 
-* [Pixelsquid](https://www.pixelsquid.com/) - 
-* [Archive3d](http://archive3d.net/) - 
+* [Humster3d](http://humster3d.com/) - We make all 3D models ourselves. High-Quality of every single unit, full product support and Game-ready model is available. All 3D formats.
+* [TF3DM](http://tf3dm.com/) - Free 3D Models, we offer thousands of 3d models, in various formats, that you can download absolutely for free.
+* [Pixelsquid](https://www.pixelsquid.com/) - PixelSquid makes 3D content easy for graphic designers to download at any angle as transparent PNG or PSD. Free Photoshop plug-in also available.
+* [Archive3d](http://archive3d.net/) - Download Free 3D Objects
 * [UE4Asset](https://ue4asset.com/) - 
 
 #### DAW
@@ -330,26 +330,26 @@
 
 #### Simple Game Mechanics
 * [ABA Games](http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/) - 
-* [Orisinal](http://www.ferryhalim.com/orisinal/) - 
+* [Orisinal](http://www.ferryhalim.com/orisinal/) - Orisinal games collection by Ferry Halim with Winterbells, Sunny Day Sky, These Little Pigs, Bubble Bees, Chicken Wings, Bum Bum Koala, Snowbowling, Dare Dozen, Cranky Crabs, and more!
 * [Eyezmaze](http://www.eyezmaze.com/) - 
-* [Gamedesign.jp](http://www.gamedesign.jp/) - 
+* [Gamedesign.jp](http://www.gamedesign.jp/) - The site holds a lot of free games for public.
 * [HOSHI SAGA](http://hoshisaga.jp/) - 
 * [Cursors.io](http://cursors.io/) - 
 * [SOOMLA](http://soom.la/) - 
 * [Squidi 300 Mechanics](http://www.squidi.net/three/) - 
 
 #### Games & Tools
-* [35 Gamification Mechanics](http://www.epicwinblog.net/2013/10/the-35-gamification-mechanics-toolkit.html) - 
-* [Life is a game](http://www.gameseeds.net/) - 
+* [35 Gamification Mechanics](http://www.epicwinblog.net/2013/10/the-35-gamification-mechanics-toolkit.html) - Level up your business through Gamification
+* [Life is a game](http://www.gameseeds.net/) - Life is a game - We explain how different aspects of life are like games
 * [Art Of Game Design](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses&hl=en) - 
 * [Game Mechanics Flash Cards](http://www.scribd.com/doc/40500617/Print-Your-Own-Version-of-SCVNGR-s-Game-Mechanics-Flash-Cards) - 
 
 #### Game Design Documents
 * [Dundoc](http://www.dundoc.com/) - 
-* [Game Design Document Template R2](https://docs.google.com/document/d/1V-fLxDs-qHJKQ6YYXmWGjy0V8jnaW9cFiEGixCrXDx8/edit?usp=sharing) - 
+* [Game Design Document Template R2](https://docs.google.com/document/d/1V-fLxDs-qHJKQ6YYXmWGjy0V8jnaW9cFiEGixCrXDx8/edit?usp=sharing) - Game Name Here Design Document Copyright info and credits and whatnot.   This template is CC0 licensed.    You can make a local copy of this document under:File >> Make a copy…Which can be modified without requesting further permissions.  Index Index 
 * [Chris Taylor Game Design Document](http://www.runawaystudios.com/articles/chris_taylor_gdd.php) - 
 * [One Page GDD](http://pixelatto.com/) - 
-* [Game Design Document (GDD) Template by vitalzigns](https://vitalzigns.itch.io/gdd) - 
+* [Game Design Document (GDD) Template by vitalzigns](https://vitalzigns.itch.io/gdd) - Game Design Document Template
 * [1-Page Game Design Document (GDD) Template by vitalzigns](https://vitalzigns.itch.io/1-page-gdd) - 
 
 #### Lectures,Talks & Articles
@@ -380,11 +380,11 @@
 * [articy:draft](https://www.articy.com/en/) - 
 
 #### Script Writing
-* [Celtx](https://www.celtx.com/index.html) - 
+* [Celtx](https://www.celtx.com/index.html) -   
 * [Plotbot](http://www.plotbot.com/) - 
 * [Articy:draft](https://www.nevigo.com/en/articydraft/overview/) - 
 * [Amazon Storybuilder](https://studios.amazon.com/storybuilder) - 
-* [Amazon Storywriter](https://storywriter.amazon.com/) - 
+* [Amazon Storywriter](https://storywriter.amazon.com/) - Amazon Storywriter
 * [Scrivener](https://www.literatureandlatte.com/scrivener.php) - 
 
 #### Fonts
@@ -455,7 +455,7 @@
 #### Pitches
 * [Game Pitches](http://www.gamepitches.com/) - 
 * [Slidebean](https://slidebean.com/pitch-deck-template/) - 
-* [The Best Pitch Deck Examples from Real Startups](https://attach.io/startup-pitch-decks/) - 
+* [The Best Pitch Deck Examples from Real Startups](https://attach.io/startup-pitch-decks/) - A collection of real fundraising decks from real startups. In total, these decks have raised over $400 million.
 
 #### PR
 * [presskit()](http://dopresskit.com/) - 
@@ -501,8 +501,8 @@
 #### EXTRAS
 * [GitHub Student Developer Pack](https://education.github.com/pack) - 
 * [Eclipse](http://eclipse.org/) - 
-* [Bulletphysics](http://bulletphysics.org/wordpress) - 
-* [Box2D](http://box2d.org/about/) - 
+* [Bulletphysics](http://bulletphysics.org/wordpress) - Bullet Real-Time Physics Simulation | Home of Bullet and PyBullet: physics simulation for games, visual effects, robotics and reinforcement learning.
+* [Box2D](http://box2d.org/about/) - About | Box2D
 * [Rant](https://github.com/TheBerkin/Rant) - 
 
 #### Game Jams
@@ -555,7 +555,7 @@
 
 #### Contribute!
 * [$1 PayPal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_cart&business=darcila86%40gmail%2ecom&lc=CO&item_name=Game%20Development%20Resources%20Donation&amount=1%2e00&currency_code=USD&button_subtype=products&add=1&bn=PP%2dShopCartBF%3abtn_cart_LG%2egif%3aNonHosted) - 
-* [$5 PayPal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_cart&business=darcila86%40gmail%2ecom&lc=CO&item_name=Game%20Development%20Resources%20Donation&amount=5%2e00&currency_code=USD&button_subtype=products&no_note=0&add=1&bn=PP%2dShopCartBF%3abtn_cart_LG%2egif%3aNonHostedGuest) - 
+* [$5 PayPal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_cart&business=darcila86%40gmail%2ecom&lc=CO&item_name=Game%20Development%20Resources%20Donation&amount=5%2e00&currency_code=USD&button_subtype=products&no_note=0&add=1&bn=PP%2dShopCartBF%3abtn_cart_LG%2egif%3aNonHostedGuest) - PayPal es la forma más segura y fácil de pagar en Internet sin revelar su número de tarjeta de crédito.
 * [$10 PayPal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=darcila86%40gmail%2ecom&lc=CO&item_name=Game%20Development%20Resources%20Donation&amount=10%2e00&currency_code=USD&button_subtype=services&no_note=0&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest) - 
 
 #### Icons
@@ -605,8 +605,8 @@
 * [donjon RPG Tools](http://donjon.bin.sh/) - 
 * [Crearunavatar](http://www.crearunavatar.com/) - 
 * [Avatar Maker NA by aamatniekss](https://aamatniekss.itch.io/avatar-maker-na) - 
-* [Manuel Bastioni official page](http://www.manuelbastioni.com/index.php) - 
-* [Reallusion](https://www.reallusion.com/character-creator/) - 
+* [Manuel Bastioni official page](http://www.manuelbastioni.com/index.php) - Manuel Bastioni open source software prototypes and algorithms
+* [Reallusion](https://www.reallusion.com/character-creator/) - Character Creator 3, the universal 3D character creation platform, connects industry leading pipelines into one system for character generation, animation, rendering, and interactive design.
 
 #### Vectors
 * [Vecteezy](http://www.vecteezy.com/) - 
@@ -662,17 +662,17 @@
 * [iClone](https://www.reallusion.com/iclone/) - 
 
 #### 3D Characters
-* [Makehuman](http://www.makehuman.org/) - 
+* [Makehuman](http://www.makehuman.org/) - Redirect page
 * [DAZ 3D](https://www.daz3d.com/home) - 
-* [Adobe Fuse CC (Beta)](https://www.adobe.com/products/fuse.html) - 
+* [Adobe Fuse CC (Beta)](https://www.adobe.com/products/fuse.html) - Create 3D human models and characters with Adobe Fuse (Beta). Easily import into Photoshop projects to pose and animate your new characters.
 * [Zbrush](http://pixologic.com/zbrush/features/overview) - 
-* [3DRT](http://www.3drt.com/) - 
+* [3DRT](http://www.3drt.com/) - Buy lowpoly 3d models for game developers: characters, vehicles, environments. Fantasy, sci-fi and realistic real-time models for indie developers.
 * [3D Models Textures](https://3dmodels-textures.com/) - 
 * [Autodesk Character Generator](https://charactergenerator.autodesk.com/) - 
-* [Reallusion Character Creator](https://www.reallusion.com/character-creator/) - 
+* [Reallusion Character Creator](https://www.reallusion.com/character-creator/) - Character Creator, the universal 3D character creation platform, connects industry leading pipelines into one system for character generation, animation, rendering, and interactive design.
 * [Mixamo](https://www.mixamo.com/) - 
 * [Poser](https://my.smithmicro.com/poser-3d-animation-software.html) - 
-* [VRoid Studio, a free software to create 3D characters! #VRoid](https://www.pixivision.net/en/a/3681) - 
+* [VRoid Studio, a free software to create 3D characters! #VRoid](https://www.pixivision.net/en/a/3681) - Today, we will release the Beta Version of VRoid Studio, a character maker that allows users to create, in easy steps, 3...
 
 #### 3D Sculpting
 * [Sculptris](http://pixologic.com/sculptris) - 
@@ -746,17 +746,17 @@
 * [Free Sound Effects](http://www.soundgator.com/) - 
 * [Footsteps Generator](https://thesoundpacktree.com/pages/footsteps-generator01) - 
 * [ToneDock](https://www.tonedock.com/) - 
-* [BOOM Library](https://www.boomlibrary.com/) - 
+* [BOOM Library](https://www.boomlibrary.com/) - Professional Sound Effects for Games, Trailers, Movies, TV-Shows and more. Recorded and edited by award-winning sound designers. Royalty-Free.
 
 #### Voice Acting
-* [Voice Acting Alliance](http://voiceactingalliance.com/board/forum.php) - 
-* [Voicebunny](http://voicebunny.com/) - 
-* [Casting Call Club](https://castingcall.club/) - 
-* [Behind The Voice Actors](http://www.behindthevoiceactors.com/casting-call) - 
-* [Voices.com](https://www.voices.com/) - 
-* [Voice123](http://voice123.com/) - 
-* [Fiverr](https://www.fiverr.com/) - 
-* [Open Mic Thread](http://www.newgrounds.com/bbs/topic/1379627) - 
+* [Voice Acting Alliance](http://voiceactingalliance.com/board/forum.php) - This website is currently unavailable.
+* [Voicebunny](http://voicebunny.com/) - Listen to thousands of voiceovers by professional voice-actors that collectively speak 50+ languages and dialects. Book one or submit a contest and get auditions.
+* [Casting Call Club](https://castingcall.club/) - Casting Call Club, voice, actors, voice actors, voice over, cartoons, anime, tv shows, movies, games, video games, voice actor roles, castingcallclub,  voice overs, casting call, voice work, voice acting, voices, voiceover, voice over work, 
+* [Behind The Voice Actors](http://www.behindthevoiceactors.com/casting-call) - BTVA is a visual and audible guide to voice actors and the characters they play across cartoons, anime, TV shows, movies, video games, shorts, commercials and rides/attractions.
+* [Voices.com](https://www.voices.com/) - We have the best voice over actors in the world. Guaranteed! Click or call 1-888-359-3472 to use our award winning service. Sign up now for FREE!
+* [Voice123](http://voice123.com/) - Great ideas need great voice overs and Voice123 has them all. Use our platform and find out why. Sign up today!
+* [Fiverr](https://www.fiverr.com/) - Access to This Page Has Been Blocked
+* [Open Mic Thread](http://www.newgrounds.com/bbs/topic/1379627) - So now that this Voice Acting Forum thing has kicked off, feels like we should get a thread going where we can post our demos. Any and all are welcome, here'...
 * [Vananvoiceover](http://vananvoiceover.com/) - 
 * [VOPlanet](https://www.voplanet.com/) - 
 
@@ -798,7 +798,7 @@
 #### Control API
 * [Gamepad](http://www.w3.org/TR/gamepad/) - 
 * [PxGamepad](https://github.com/thinkpixellab/PxGamepad) - 
-* [Smartbox](https://github.com/immosmart/smartbox) - 
+* [Smartbox](https://github.com/immosmart/smartbox) - smartbox - SmartTV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.
 * [Leap Motion Developers](https://developer.leapmotion.com/) - 
 * [Gallant Games](http://www.gallantgames.com/pages/incontrol-introduction) - 
 
@@ -813,7 +813,7 @@
 
 #### Word Brainstorm
 * [OneLook Reverse Dictionary](http://www.onelook.com/reverse-dictionary.shtml) - 
-* [Onym](https://onym.co/) - 
+* [Onym](https://onym.co/) - Tools and resources for naming things.
 * [More Words](http://www.morewords.com/) - 
 * [Wordnavigator](http://wordnavigator.com/) - 
 * [All Acronyms Dictionary](http://www.allacronyms.com/) - 
@@ -827,17 +827,17 @@
 * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) - 
 * [Scapple](https://www.literatureandlatte.com/scapple.php) - 
 * [Mind42](http://mind42.com/) - 
-* [Text 2 Mind Map](https://www.text2mindmap.com/) - 
-* [MindMaple](http://www.mindmaple.com/Default.aspx) - 
-* [MindNode](https://mindnode.com/) - 
+* [Text 2 Mind Map](https://www.text2mindmap.com/) - Text 2 Mind Map - Simple mind mapping online
+* [MindMaple](http://www.mindmaple.com/Default.aspx) - MindMaple® will increase your productivity and creativity by visually organizing your ideas and thoughts onto a mind map. MindMaple® is perfect for project managing, concept mapping, brainstorming and task scheduling.
+* [MindNode](https://mindnode.com/) - mind,map,mapping,ideas,thoughts,note,brainstorming,mindmapping,diagram,mindnote,visualise,opml
 * [Coggle](https://coggle.it/) - 
 * [MindMup 2](https://www.mindmup.com/) - 
-* [MindMeister](https://www.mindmeister.com/?r=66627) - 
+* [MindMeister](https://www.mindmeister.com/?r=66627) - Free and can connect to Meister task, what allows user to make plan from mind map. Great tool!
 * [Sligrid](https://sligrid.com/) - 
 * [Imindq.com](https://www.imindq.com/) - 
 
 #### Game Idea Generators
-* [Video game generator](http://orteil.dashnet.org/gamegen) - 
+* [Video game generator](http://orteil.dashnet.org/gamegen) - Video game generator
 * [Ludocraft](http://www.ludocraft.com/gigster/) - 
 * [Boardgamizer](http://www.boardgamizer.com/) - 
 * [Videogamena.me](http://videogamena.me/) - 
@@ -867,7 +867,7 @@
 * [The Making of Fallout 3](https://www.youtube.com/watch?v=Lr5olzm9jXg) - 
 * [The Game That Time Forgot](https://www.youtube.com/watch?v=2b0tSu0QDQ0) - 
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317) - 
-* [Flow: The Psychology of Optimal Experience](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202) - 
+* [Flow: The Psychology of Optimal Experience](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202) - Flow: The Psychology of Optimal Experience (Harper Perennial Modern Classics) [Mihaly Csikszentmihalyi] on Amazon.com. *FREE* shipping on qualifying offers. Psychologist Mihaly Csikszentmihalyi's famous investigations of optimal experience have revealed t
 * [Game Coding Complete](http://www.amazon.com/Game-Coding-Complete-Fourth-McShaffry/dp/1133776574) - 
 * [Game Development Essentials](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials) - 
 * [Game Engine Architecture](http://www.gameenginebook.com/) - 
@@ -891,14 +891,14 @@
 * [Learning Unreal® Engine iOS](https://www.packtpub.com/game-development/learning-unreal-engine-ios-game-development) - 
 
 #### Mockups
-* [Balsamiq](https://balsamiq.com/) - 
-* [Sketch 3](http://bohemiancoding.com/sketch) - 
-* [Pencil UI](http://pencil.evolus.vn/) - 
-* [Moqups](https://moqups.com/) - 
-* [Draw.io](https://www.draw.io/) - 
+* [Balsamiq](https://balsamiq.com/) - Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.
+* [Sketch 3](http://bohemiancoding.com/sketch) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
+* [Pencil UI](http://pencil.evolus.vn/) - Home - Pencil Project
+* [Moqups](https://moqups.com/) - Moqups is a streamlined and intuitive web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes — for any type of project.
+* [Draw.io](https://www.draw.io/) - draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 * [Lucidchart](https://www.lucidchart.com/pages/tour) - 
-* [Justinmind](http://www.justinmind.com/) - 
-* [Mockup.io](https://mockup.io/about/) - 
+* [Justinmind](http://www.justinmind.com/) - A powerful wireframe software to define web and mobile applications
+* [Mockup.io](https://mockup.io/about/) - Mockup.io – Present and Manage iOS Mockups
 * [Prototype faster, smarter and easier with Mockplus!](http://www.mockplus.com/) - 
 * [Adobe XD](https://www.adobe.com/nl/products/xd.html) - 
 * [Figma](https://www.figma.com/) - 
@@ -913,9 +913,9 @@
 * [Fontforge](http://fontforge.github.io/en-US/) - 
 * [Fontark](http://fontark.net/farkwp/) - 
 * [Glyph Designer - A Bitmap Font Generator for Mac](https://71squared.com/glyphdesigner) - 
-* [Glyph Combiner - Bitmapped Fonts Optimized !](http://www.binaryblobs.com/GlyphCombiner/) - 
-* [Prototypo](https://www.prototypo.io/) - 
-* [Glyphr Studio](https://www.glyphrstudio.com/) - 
+* [Glyph Combiner - Bitmapped Fonts Optimized !](http://www.binaryblobs.com/GlyphCombiner/) - Glyph Combiner - allows bitmapped font Textures to be combined &amp; optimized to fit only glyphs you need for a given project. Save VRAM - get Optimized !
+* [Prototypo](https://www.prototypo.io/) - Prototypo is a professional tool allowing to create unique identities with custom fonts. It takes designers to another level, completing their skillset with type design.
+* [Glyphr Studio](https://www.glyphrstudio.com/) - Glyphr Studio - font design, online
 
 #### Screen Recording & Capture
 * [ScreenToGif](http://www.screentogif.com/) - 
@@ -977,10 +977,10 @@
 * [Astah](http://astah.net/) - 
 * [Diagram CASE Tool for Software Modeling & Analysis](https://www.softwareideas.net/) - 
 * [Dia draws your structured diagrams](http://dia-installer.de/) - 
-* [UMLet](https://www.umlet.com/) - 
+* [UMLet](https://www.umlet.com/) - UMLet - Free UML Tool for Fast UML Diagrams
 
 #### Landing Page
-* [Instapage](https://www.instapage.com/) - 
+* [Instapage](https://www.instapage.com/) - Turn your ad clicks into conversions on the only platform designed to create, personalize, & optimize post-click landing pages & experiences at scale.
 * [Wordpress Free Landing Pages Builder](https://es.wordpress.org/plugins/landing-pages-builder/) - 
 
 #### Distribution
@@ -1001,17 +1001,17 @@
 
 #### Ads
 * [Vungle](http://www.vungle.com/) - 
-* [Unity Ads](https://unityads.unity3d.com/) - 
-* [Google AdMob](https://www.google.com/admob/) - 
-* [Chartboost](https://www.chartboost.com/) - 
+* [Unity Ads](https://unityads.unity3d.com/) - Integrate Unity Ads into mobile games to increase player engagement and maximize revenue. Ad formats include rewarded video, banners, interstitials, rich media, playables & AR.
+* [Google AdMob](https://www.google.com/admob/) - Earn more from your mobile apps using in-app ads to generate revenue, gain actionable insights, and grow your app with easy-to-use tools.
+* [Chartboost](https://www.chartboost.com/) - Grow your mobile business with the leading in-app monetization and programmatic advertising platform. Mobile success starts here.
 * [AdColony](http://adcolony.com/) - 
 * [appodeal](http://www.appodeal.com/) - 
-* [Startapp](http://www.startapp.com/) - 
+* [Startapp](http://www.startapp.com/) - StartApp - a Mobile Ad Network specializing in android app monetization and distribution of free mobile applications, maximize your app revenue.
 * [Leadbolt](http://www.leadbolt.com/) - 
 * [Pollen.vc](https://pollen.vc/#/) - 
 * [Addapptr](http://www.addapptr.com/) - 
 * [In-Game Native Advertising ](https://www.greedygame.com/) - 
-* [Globalhop](https://globalhop.net/) - 
+* [Globalhop](https://globalhop.net/) - Earn money with your app! Simple integration, flexible payouts, compatible with other app monetization formats. Monetize your app today with Globalhop.
 
 #### Technical Studies
 * [It's Nicky Case! THINGS YOU CAN PLAY](https://ncase.me/) - 
@@ -1021,7 +1021,7 @@
 * [Twilight Princess Eyes Breakdown](http://www.benjones.us/twilight-princess-eyes-breakdown/) - 
 * [Tech & Techniques Behind Creating the Characters for Paragon](https://www.twitch.tv/unrealengine/v/29242137) - 
 * [Paragon Feature Examples](https://www.youtube.com/watch?v=1UOY-FMm-xo) - 
-* [Deus Ex: Human Revolution - Graphics Study](http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/) - 
+* [Deus Ex: Human Revolution - Graphics Study](http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/) - 2015/03/12: Back online after Reddit and Slashdot killed my bandwidth with 30,000 visits in the last hours. Followed by HN. 2015/03/11: Update with …
 * [GTA V - Graphics Study](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/) - 
 * [Supreme Commander - Graphics Study](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/) - 
 
@@ -1078,7 +1078,7 @@
 * [Grid Cartographer](http://www.davidwaltersdevelopment.com/tools/gridcart/) - 
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - 
 * [Fantasy map generator](https://github.com/mewo2/terrain) - 
-* [Grid Cartographer](http://gridcartographer.com/) - 
+* [Grid Cartographer](http://gridcartographer.com/) - Grid Cartographer
 
 #### Image Browsing
 * [IrfanView](http://www.irfanview.com/) - 
@@ -1137,12 +1137,12 @@
 * [Poliigon](https://www.poliigon.com/) - 
 
 #### 3D Tree Generators
-* [Arbaro](http://arbaro.sourceforge.net/) - 
-* [ngPlant](http://ngplant.sourceforge.net/) - 
-* [powerPlant](http://sourceforge.net/projects/pplant/) - 
-* [Tree It](http://www.evolved-software.com/treeit/treeit) - 
-* [PlantFactory](http://www.plantfactory-tech.com/) - 
-* [Ivy Generator (GuruWare)](http://www.guruware.at/main/) - 
+* [Arbaro](http://arbaro.sourceforge.net/) - Arbaro - tree generation for povray
+* [ngPlant](http://ngplant.sourceforge.net/) - ngPlant - Open Source plant modeling suite
+* [powerPlant](http://sourceforge.net/projects/pplant/) - Download powerPlant for free.  powerPlant is a plant modelling tool based on parametric plant descriptions, producing highly detailed models that can be exported to 3ds. Deriving similar plants is a matter of 1 click!
+* [Tree It](http://www.evolved-software.com/treeit/treeit) - Tree Generator
+* [PlantFactory](http://www.plantfactory-tech.com/) - PlantFactory is e-on software's cutting-edge solution for creating any kind of photo-realistic plant for use in special fx, architectural visualization and real-time environments. Because plants are built procedurally, you can generate and export them wit
+* [Ivy Generator (GuruWare)](http://www.guruware.at/main/) - GuruWare
 
 #### Blueprints & Reference
 * [The-Blueprints](http://www.the-blueprints.com/) - 
@@ -1158,9 +1158,9 @@
 * [musagi](http://www.drpetter.se/project_musagi.html) - 
 * [MilkyTracker](http://www.milkytracker.org/?about) - 
 * [FamiTracker](http://famitracker.com/) - 
-* [SunVox](http://www.warmplace.ru/soft/sunvox/) - 
-* [OpenMPT](https://openmpt.org/) - 
-* [Renoise](http://www.renoise.com/) - 
+* [SunVox](http://www.warmplace.ru/soft/sunvox/) - sunvox, synth, synthesizer, tracker, sequencer, beatmachine, daw, modular studio, sequencer, generator, effects, music creation, analog, analogue, mobile, demoscene, professional
+* [OpenMPT](https://openmpt.org/) - OpenMPT - Open ModPlug Tracker | OpenMPT - Discover the music inside...
+* [Renoise](http://www.renoise.com/) - Renoise is a digital audio workstation. It lets you compose, edit and record production-quality audio using a music tracker-based approach. It features a wide range of built-in audio processors, alongside support for all commonly used virtual instrument a
 * [BeepBox](http://www.beepbox.co/) - 
 * [LMMS](https://lmms.io/) - 
 * [ModBox 3.1](https://moddedbeepbox.github.io/3.0/#6n41z0u0s0kbl00e03t7m0x0y0|0D0H0a7g0fj7i0r1o43210T0w1f1d1c0q0G0B0h0v0T0w1f1d1c0q0G0B0h0v0T0w1f1d1c0q0G0B0h0v0T0w1f1d1c0q0G0B0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4gp170000000) - 
@@ -1280,8 +1280,8 @@
 * [appear.in](https://appear.in/) - 
 * [Zoom](http://zoom.us/) - 
 * [Blab Beta](http://blab.im/) - 
-* [Skype](http://skype.com/) - 
-* [Game-Jam-Talk/Lobby](https://gitter.im/Game-Jam-Talk/Lobby) - 
+* [Skype](http://skype.com/) - Stay in touch with your family and friends for free on Skype. Download Skype today to chat and call on desktop and mobile.
+* [Game-Jam-Talk/Lobby](https://gitter.im/Game-Jam-Talk/Lobby) - Share your game jam experiences, work, requests and questions!
 * [Dead Simple Screen Sharing](https://www.deadsimplescreensharing.com/) - 
 
 #### Inspiration
@@ -1341,7 +1341,7 @@
 * [Science Fiction Interfaces](http://sciencefictioninterfaces.tumblr.com/) - 
 
 #### Video Compression
-* [Virtualdub](http://www.virtualdub.org/) - 
+* [Virtualdub](http://www.virtualdub.org/) - Welcome to virtualdub.org! - virtualdub.org
 * [Handbrake](https://handbrake.fr/) - 
 * [Xilisoft Video Converter](http://www.xilisoft.com/video-converter-software.html) - 
 * [MeGUI](http://sourceforge.net/projects/megui/) - 
@@ -1363,7 +1363,7 @@
 * [Lightworks](https://www.lwks.com/) - 
 * [OpenShot Video Editor](http://www.openshotvideo.com/) - 
 * [blender.org](https://www.blender.org/) - 
-* [Final Cut Pro](https://www.apple.com/final-cut-pro) - 
+* [Final Cut Pro](https://www.apple.com/final-cut-pro) - Final Cut Pro X revolutionizes post-production with 360° video editing and motion graphics, 4K HDR support, and advanced tools for color correction.
 
 #### Cloud Storage
 * [Dropbox](https://www.dropbox.com/) - 
@@ -1466,7 +1466,7 @@
 * [The Theory and Practice of Cameras in Side-Scrollers](http://gamasutra.com/blogs/ItayKeren/20150511/243083/Scroll_Back_The_Theory_and_Practice_of_Cameras_in_SideScrollers.php) - 
 * [PSG Art tutorial](http://androidarts.com/art_tut.htm) - 
 * [How to Design a Town Map](http://www.fantasticmaps.com/2013/03/how-to-design-a-town/) - 
-* ["The art of screenshake"](https://youtu.be/AJdEqssNZ-U) - 
+* ["The art of screenshake"](https://youtu.be/AJdEqssNZ-U) - INDIGO Classes 2013: Jan Willem Nijman is 50% of indie power house Vlambeer. He talks about 'The Art of Screenshake'. Why is it that one game plays great and...
 * [Extra Credits: Game Design](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX) - 
 * [Mark Brown's Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337/videos) - 
 * [how to start building video games even if you don’t have any experience](https://medium.freecodecamp.org/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-dont-have-any-experience-5e2f9f45f4bb) - 
@@ -1479,8 +1479,8 @@
 * [React Native](https://facebook.github.io/react-native/) - 
 * [Apache Cordova](https://cordova.apache.org/) - 
 * [NW.js](http://nwjs.io/) - 
-* [Ludei](http://ludei.com/) - 
-* [AngularJS](https://angularjs.org/) - 
+* [Ludei](http://ludei.com/) - Deploy HTML5 apps and games to every mobile market with no code changes and with native performance and features.
+* [AngularJS](https://angularjs.org/) - AngularJS is what HTML would have been, had it been designed for building web-apps. Declarative templates with data-binding, MVW, MVVM, MVC, dependency injection and great testability story all implemented with pure clien
 * [Joren](https://joren.io/) - 
 
 #### Fun Tools
