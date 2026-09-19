@@ -177,6 +177,7 @@ No hidden costs, for sure.
 * [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator) - SpriteIlluminator: Generate normal maps for your 2d game and web projects.
 * [BriteSprite](https://www.assetstore.unity3d.com/en/#!/content/13823) - Asset Store
 * [Laigter by azagaya](https://azagaya.itch.io/laigter) - Simple normal map generator for 2D sprites!
+* [Normal Map Bench](https://normalmapbench.com/) - Free browser-based normal map generator with live strength, smoothing, edge and lighting controls (OpenGL & DirectX conventions)
 
 #### Vector Editors
 
