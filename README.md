@@ -1566,6 +1566,7 @@ from areas such as film and games.
 #### Other resource sites
 
 * [GitHub Magictools](https://github.com/ellisonleao/magictools) - magictools - A list of Game Development resources to make magic happen.
+* [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers with verified pricing and license terms.
 * [PixelProspector](http://www.pixelprospector.com/indie-resources/) - PixelProspector.com
 * [Get ready for Ludum Dare](https://itch.io/blog/6037/get-ready-for-ludum-dare-game-development-tools) - Ludum Dare 39 starts today! I previously wrote about Ludum Dare  with tips for completing your game along with getting the most out of itch.io, so check that out if you haven’t already. Ludum Dare 
 * [Useful programming and game development resources](https://eliasdaler.github.io/programming-and-gamedev-resources/) - Useful programming and game development resources · Elias Daler's blog
